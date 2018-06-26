@@ -1,0 +1,25 @@
+{
+  "name": "nodejstesting",
+  "version": "1.0.0",
+  "description": "Sample node js application with mocha",
+  "main": "calculator.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijayanand2k/NodeJsTesting.git"
+  },
+  "author": "vijay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vijayanand2k/NodeJsTesting/issues"
+  },
+  "homepage": "https://github.com/vijayanand2k/NodeJsTesting#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
